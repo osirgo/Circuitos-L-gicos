@@ -45,6 +45,10 @@ False
 False
 True
 
+Contacto: Si tiene alguna pregunta o comentario, no dude en contactarme.
+
+Fecha de última actualización: 2024-02-05
+
 Notas Finales:
 Las funciones de las compuertas lógicas también pueden usarse con valores binarios (0 y 1) como argumentos.
 La función evaluar puede usarse para evaluar cualquier función lógica que pueda expresarse como una combinación de las compuertas lógicas básicas.
